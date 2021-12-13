@@ -6,7 +6,7 @@ import GoalInput from './components/GoalInput';
 
 export default function App() {
 
-  // Intial Edit By Arun Mano
+  // Intial Edit By Solomon Beniten
 
   const [courseGoals, setCourseGoals] = useState([]);
   const [isAddMode, setIsAddMode] = useState(false);
